@@ -2,6 +2,6 @@
 
 This site is currently a WIP. Please excuse our progress!
 
-### Pages
+### Site Map
 
 [Calendar](calendar.md)
